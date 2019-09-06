@@ -3,10 +3,12 @@
   <component name="ChangeListManager">
     <list default="true" id="69cd2ed3-29d5-4966-ab11-70d8c65e2a4c" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/app/Answer.php" afterPath="$PROJECT_DIR$/app/Answer.php" />
-      <change beforePath="$PROJECT_DIR$/app/Providers/RouteServiceProvider.php" afterPath="$PROJECT_DIR$/app/Providers/RouteServiceProvider.php" />
-      <change beforePath="$PROJECT_DIR$/app/Question.php" afterPath="$PROJECT_DIR$/app/Question.php" />
-      <change beforePath="$PROJECT_DIR$/app/User.php" afterPath="$PROJECT_DIR$/app/User.php" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" afterPath="$PROJECT_DIR$/package-lock.json" />
+      <change beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
+      <change beforePath="$PROJECT_DIR$/public/css/app.css" afterPath="$PROJECT_DIR$/public/css/app.css" />
+      <change beforePath="$PROJECT_DIR$/public/js/app.js" afterPath="$PROJECT_DIR$/public/js/app.js" />
+      <change beforePath="$PROJECT_DIR$/resources/js/app.js" afterPath="$PROJECT_DIR$/resources/js/app.js" />
+      <change beforePath="$PROJECT_DIR$/resources/sass/app.scss" afterPath="$PROJECT_DIR$/resources/sass/app.scss" />
       <change beforePath="$PROJECT_DIR$/resources/views/questions/show.blade.php" afterPath="$PROJECT_DIR$/resources/views/questions/show.blade.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,68 +23,75 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="show.blade.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="show.blade.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/resources/views/questions/show.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="30" lean-forward="true" selection-start-line="15" selection-start-column="30" selection-end-line="15" selection-end-column="30" />
+            <state relative-caret-position="115">
+              <caret line="72" column="104" lean-forward="false" selection-start-line="72" selection-start-column="104" selection-end-line="72" selection-end-column="104" />
               <folding>
-                <marker date="1567790526989" expanded="true" signature="9:22" ph="..." />
-                <marker date="1567790526989" expanded="true" signature="34:43" ph="..." />
-                <marker date="1567790526989" expanded="true" signature="337:353" ph="..." />
-                <marker date="1567790526989" expanded="true" signature="454:478" ph="..." />
-                <marker date="1567790526989" expanded="true" signature="777:778" ph="..." />
-                <marker date="1567790526989" expanded="true" signature="778:801" ph="..." />
-                <marker date="1567790526989" expanded="true" signature="917:940" ph="..." />
-                <marker date="1567790526989" expanded="true" signature="1046:1066" ph="..." />
-                <marker date="1567790526989" expanded="true" signature="1132:1155" ph="..." />
-                <marker date="1567790526989" expanded="true" signature="1313:1333" ph="..." />
-                <marker date="1567790526989" expanded="true" signature="1339:1360" ph="..." />
-                <marker date="1567790526989" expanded="true" signature="1786:1865" ph="..." />
-                <marker date="1567790526989" expanded="true" signature="1966:1995" ph="..." />
-                <marker date="1567790526989" expanded="true" signature="2141:2161" ph="..." />
-                <marker date="1567790526989" expanded="true" signature="2303:2324" ph="..." />
-                <marker date="1567790526989" expanded="true" signature="2326:3206" ph="..." />
-                <marker date="1567790526989" expanded="true" signature="2454:2472" ph="..." />
-                <marker date="1567790526989" expanded="true" signature="2550:2571" ph="..." />
-                <marker date="1567790526989" expanded="true" signature="2765:2783" ph="..." />
-                <marker date="1567790526989" expanded="true" signature="2789:2808" ph="..." />
+                <marker date="1567792616484" expanded="true" signature="9:22" ph="..." />
+                <marker date="1567792616484" expanded="true" signature="34:43" ph="..." />
+                <marker date="1567792616484" expanded="true" signature="392:408" ph="..." />
+                <marker date="1567792616484" expanded="true" signature="517:541" ph="..." />
+                <marker date="1567792616484" expanded="true" signature="1851:1873" ph="..." />
+                <marker date="1567792616484" expanded="true" signature="2007:2030" ph="..." />
+                <marker date="1567792616484" expanded="true" signature="2152:2172" ph="..." />
+                <marker date="1567792616484" expanded="true" signature="2246:2269" ph="..." />
+                <marker date="1567792616484" expanded="true" signature="2451:2471" ph="..." />
+                <marker date="1567792616484" expanded="true" signature="2477:2498" ph="..." />
+                <marker date="1567792616484" expanded="true" signature="3014:3093" ph="..." />
+                <marker date="1567792616484" expanded="true" signature="3194:3223" ph="..." />
+                <marker date="1567792616484" expanded="true" signature="4205:4225" ph="..." />
+                <marker date="1567792616484" expanded="true" signature="4367:4388" ph="..." />
+                <marker date="1567792616484" expanded="true" signature="4518:4536" ph="..." />
+                <marker date="1567792616484" expanded="true" signature="4614:4635" ph="..." />
+                <marker date="1567792616484" expanded="true" signature="4829:4847" ph="..." />
+                <marker date="1567792616484" expanded="true" signature="4853:4872" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="RouteServiceProvider.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/Providers/RouteServiceProvider.php">
+      <file leaf-file-name="app.scss" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resources/sass/app.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="373">
-              <caret line="34" column="45" lean-forward="true" selection-start-line="34" selection-start-column="45" selection-end-line="34" selection-end-column="45" />
+            <state relative-caret-position="370">
+              <caret line="77" column="5" lean-forward="true" selection-start-line="77" selection-start-column="5" selection-end-line="77" selection-end-column="5" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Answer.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/Answer.php">
+      <file leaf-file-name="fontawesome.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resources/js/fontawesome.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-              <folding />
+            <state relative-caret-position="119">
+              <caret line="7" column="49" lean-forward="false" selection-start-line="7" selection-start-column="49" selection-end-line="7" selection-end-column="49" />
+              <folding>
+                <element signature="e#0#51#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="User.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/User.php">
+      <file leaf-file-name="app.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resources/js/app.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="437">
-              <caret line="44" column="19" lean-forward="true" selection-start-line="44" selection-start-column="19" selection-end-line="44" selection-end-column="19" />
+            <state relative-caret-position="119">
+              <caret line="7" column="25" lean-forward="false" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -101,7 +110,6 @@
         <option value="$PROJECT_DIR$/resources/views/questions/create.blade.php" />
         <option value="$PROJECT_DIR$/resources/views/questions/edit.blade.php" />
         <option value="$PROJECT_DIR$/resources/views/questions/_form.blade.php" />
-        <option value="$PROJECT_DIR$/resources/sass/app.scss" />
         <option value="$PROJECT_DIR$/routes/web.php" />
         <option value="$PROJECT_DIR$/app/Providers/AuthServiceProvider.php" />
         <option value="$PROJECT_DIR$/app/Http/Controllers/QuestionsController.php" />
@@ -115,8 +123,11 @@
         <option value="$PROJECT_DIR$/app/Question.php" />
         <option value="$PROJECT_DIR$/app/Answer.php" />
         <option value="$PROJECT_DIR$/app/User.php" />
-        <option value="$PROJECT_DIR$/resources/views/questions/show.blade.php" />
         <option value="$PROJECT_DIR$/app/Providers/RouteServiceProvider.php" />
+        <option value="$PROJECT_DIR$/resources/js/fontawesome.js" />
+        <option value="$PROJECT_DIR$/resources/js/app.js" />
+        <option value="$PROJECT_DIR$/resources/sass/app.scss" />
+        <option value="$PROJECT_DIR$/resources/views/questions/show.blade.php" />
       </list>
     </option>
   </component>
@@ -268,13 +279,13 @@
             <path>
               <item name="laravel-qa" type="b2602c69:ProjectViewProjectNode" />
               <item name="laravel-qa" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="database" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="resources" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
               <item name="laravel-qa" type="b2602c69:ProjectViewProjectNode" />
               <item name="laravel-qa" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="database" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="migrations" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="resources" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="js" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
           </expand>
           <select />
@@ -288,7 +299,10 @@
     <property name="settings.editor.selected.configurable" value="File.Encoding" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="SearchEverywhereHistoryKey" value="Route&#9;FILE&#9;file:///Applications/MAMP/htdocs/Study/laravel-qa/app/Providers/RouteServiceProvider.php&#10;User&#9;FILE&#9;file:///Applications/MAMP/htdocs/Study/laravel-qa/app/User.php&#10;Ans&#9;FILE&#9;file:///Applications/MAMP/htdocs/Study/laravel-qa/app/Answer.php&#10;QUest&#9;FILE&#9;file:///Applications/MAMP/htdocs/Study/laravel-qa/app/Question.php&#10;show.&#9;FILE&#9;file:///Applications/MAMP/htdocs/Study/laravel-qa/resources/views/questions/show.blade.php&#10;Answer.p&#9;FILE&#9;file:///Applications/MAMP/htdocs/Study/laravel-qa/app/Answer.php&#10;Data&#9;FILE&#9;file:///Applications/MAMP/htdocs/Study/laravel-qa/database/seeds/DatabaseSeeder.php&#10;Answer&#9;FILE&#9;file:///Applications/MAMP/htdocs/Study/laravel-qa/database/factories/AnswerFactory.php&#10;QuestionPol&#9;FILE&#9;file:///Applications/MAMP/htdocs/Study/laravel-qa/app/Policies/QuestionPolicy.php&#10;index&#9;FILE&#9;file:///Applications/MAMP/htdocs/Study/laravel-qa/resources/views/questions/index.blade.php&#10;QuestionFac&#9;FILE&#9;file:///Applications/MAMP/htdocs/Study/laravel-qa/database/factories/QuestionFactory.php&#10;questio&#9;FILE&#9;file:///Applications/MAMP/htdocs/Study/laravel-qa/database/migrations/2019_09_05_131944_create_questions_table.php&#10;User.&#9;FILE&#9;file:///Applications/MAMP/htdocs/Study/laravel-qa/app/User.php&#10;Quest&#9;FILE&#9;file:///Applications/MAMP/htdocs/Study/laravel-qa/app/Question.php&#10;ans&#9;FILE&#9;file:///Applications/MAMP/htdocs/Study/laravel-qa/database/migrations/2019_09_06_161711_create_answers_table.php&#10;Auth&#9;FILE&#9;file:///Applications/MAMP/htdocs/Study/laravel-qa/app/Providers/AuthServiceProvider.php&#10;AuthSer&#9;null&#9;null&#10;Que&#9;FILE&#9;file:///Applications/MAMP/htdocs/Study/laravel-qa/app/Question.php&#10;RouteSer&#9;null&#9;null&#10;web&#9;FILE&#9;file:///Applications/MAMP/htdocs/Study/laravel-qa/routes/web.php&#10;QUe&#9;FILE&#9;file:///Applications/MAMP/htdocs/Study/laravel-qa/app/Http/Controllers/QuestionsController.php&#10;app.&#9;FILE&#9;file:///Applications/MAMP/htdocs/Study/laravel-qa/resources/sass/app.scss&#10;Ques&#9;FILE&#9;file:///Applications/MAMP/htdocs/Study/laravel-qa/app/Http/Controllers/QuestionsController.php&#10;creat&#9;FILE&#9;file:///Applications/MAMP/htdocs/Study/laravel-qa/resources/views/questions/create.blade.php&#10;Ask&#9;FILE&#9;file:///Applications/MAMP/htdocs/Study/laravel-qa/app/Http/Requests/AskQuestionRequest.php&#10;_varia&#9;FILE&#9;file:///Applications/MAMP/htdocs/Study/laravel-qa/resources/sass/_variables.scss&#10;app.scss&#9;FILE&#9;file:///Applications/MAMP/htdocs/Study/laravel-qa/resources/sass/app.scss&#10;web.&#9;FILE&#9;file:///Applications/MAMP/htdocs/Study/laravel-qa/routes/web.php&#10;Qu&#9;FILE&#9;file:///Applications/MAMP/htdocs/Study/laravel-qa/app/Question.php&#10;Datab&#9;null&#9;null&#10;UserFac&#9;FILE&#9;file:///Applications/MAMP/htdocs/Study/laravel-qa/database/factories/UserFactory.php&#10;Question&#9;FILE&#9;file:///Applications/MAMP/htdocs/Study/laravel-qa/app/Question.php&#10;users&#9;FILE&#9;file:///Applications/MAMP/htdocs/Study/laravel-qa/database/migrations/2014_10_12_000000_create_users_table.php&#10;questions&#9;FILE&#9;file:///Applications/MAMP/htdocs/Study/laravel-qa/database/migrations/2019_09_05_131121_create_questions_table.php" />
+    <property name="SearchEverywhereHistoryKey" value="app.scss&#9;FILE&#9;file:///Applications/MAMP/htdocs/Study/laravel-qa/resources/sass/app.scss&#10;app.js&#9;FILE&#9;file:///Applications/MAMP/htdocs/Study/laravel-qa/resources/js/app.js&#10;show&#9;FILE&#9;file:///Applications/MAMP/htdocs/Study/laravel-qa/resources/views/questions/show.blade.php&#10;Route&#9;FILE&#9;file:///Applications/MAMP/htdocs/Study/laravel-qa/app/Providers/RouteServiceProvider.php&#10;User&#9;FILE&#9;file:///Applications/MAMP/htdocs/Study/laravel-qa/app/User.php&#10;Ans&#9;FILE&#9;file:///Applications/MAMP/htdocs/Study/laravel-qa/app/Answer.php&#10;QUest&#9;FILE&#9;file:///Applications/MAMP/htdocs/Study/laravel-qa/app/Question.php&#10;show.&#9;FILE&#9;file:///Applications/MAMP/htdocs/Study/laravel-qa/resources/views/questions/show.blade.php&#10;Answer.p&#9;FILE&#9;file:///Applications/MAMP/htdocs/Study/laravel-qa/app/Answer.php&#10;Data&#9;FILE&#9;file:///Applications/MAMP/htdocs/Study/laravel-qa/database/seeds/DatabaseSeeder.php&#10;Answer&#9;FILE&#9;file:///Applications/MAMP/htdocs/Study/laravel-qa/database/factories/AnswerFactory.php&#10;QuestionPol&#9;FILE&#9;file:///Applications/MAMP/htdocs/Study/laravel-qa/app/Policies/QuestionPolicy.php&#10;index&#9;FILE&#9;file:///Applications/MAMP/htdocs/Study/laravel-qa/resources/views/questions/index.blade.php&#10;QuestionFac&#9;FILE&#9;file:///Applications/MAMP/htdocs/Study/laravel-qa/database/factories/QuestionFactory.php&#10;questio&#9;FILE&#9;file:///Applications/MAMP/htdocs/Study/laravel-qa/database/migrations/2019_09_05_131944_create_questions_table.php&#10;User.&#9;FILE&#9;file:///Applications/MAMP/htdocs/Study/laravel-qa/app/User.php&#10;Quest&#9;FILE&#9;file:///Applications/MAMP/htdocs/Study/laravel-qa/app/Question.php&#10;ans&#9;FILE&#9;file:///Applications/MAMP/htdocs/Study/laravel-qa/database/migrations/2019_09_06_161711_create_answers_table.php&#10;Auth&#9;FILE&#9;file:///Applications/MAMP/htdocs/Study/laravel-qa/app/Providers/AuthServiceProvider.php&#10;AuthSer&#9;null&#9;null&#10;Que&#9;FILE&#9;file:///Applications/MAMP/htdocs/Study/laravel-qa/app/Question.php&#10;RouteSer&#9;null&#9;null&#10;web&#9;FILE&#9;file:///Applications/MAMP/htdocs/Study/laravel-qa/routes/web.php&#10;QUe&#9;FILE&#9;file:///Applications/MAMP/htdocs/Study/laravel-qa/app/Http/Controllers/QuestionsController.php&#10;app.&#9;FILE&#9;file:///Applications/MAMP/htdocs/Study/laravel-qa/resources/sass/app.scss&#10;Ques&#9;FILE&#9;file:///Applications/MAMP/htdocs/Study/laravel-qa/app/Http/Controllers/QuestionsController.php&#10;creat&#9;FILE&#9;file:///Applications/MAMP/htdocs/Study/laravel-qa/resources/views/questions/create.blade.php&#10;Ask&#9;FILE&#9;file:///Applications/MAMP/htdocs/Study/laravel-qa/app/Http/Requests/AskQuestionRequest.php&#10;_varia&#9;FILE&#9;file:///Applications/MAMP/htdocs/Study/laravel-qa/resources/sass/_variables.scss&#10;web.&#9;FILE&#9;file:///Applications/MAMP/htdocs/Study/laravel-qa/routes/web.php&#10;Qu&#9;FILE&#9;file:///Applications/MAMP/htdocs/Study/laravel-qa/app/Question.php&#10;Datab&#9;null&#9;null&#10;UserFac&#9;FILE&#9;file:///Applications/MAMP/htdocs/Study/laravel-qa/database/factories/UserFactory.php&#10;Question&#9;FILE&#9;file:///Applications/MAMP/htdocs/Study/laravel-qa/app/Question.php&#10;users&#9;FILE&#9;file:///Applications/MAMP/htdocs/Study/laravel-qa/database/migrations/2014_10_12_000000_create_users_table.php&#10;questions&#9;FILE&#9;file:///Applications/MAMP/htdocs/Study/laravel-qa/database/migrations/2019_09_05_131121_create_questions_table.php" />
+    <property name="node.js.path.for.package.jscs" value="project" />
+    <property name="node.js.detected.package.jscs" value="true" />
+    <property name="node.js.selected.package.jscs" value="" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -326,12 +340,12 @@
       <workItem from="1567703124213" duration="748000" />
       <workItem from="1567703875661" duration="1189000" />
       <workItem from="1567706524809" duration="4434000" />
-      <workItem from="1567782174406" duration="6412000" />
+      <workItem from="1567782174406" duration="8271000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15113000" />
+    <option name="totallyTimeSpent" value="16972000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -346,7 +360,7 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29504234" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29504234" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -643,14 +657,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resources/sass/app.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="319">
-          <caret line="39" column="19" lean-forward="true" selection-start-line="39" selection-start-column="19" selection-end-line="39" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/resources/views/questions/create.blade.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
@@ -796,56 +802,80 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/app/Providers/RouteServiceProvider.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="32" column="0" lean-forward="true" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/Answer.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+        <state relative-caret-position="363">
+          <caret line="30" column="0" lean-forward="false" selection-start-line="30" selection-start-column="0" selection-end-line="32" selection-end-column="5" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/User.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="44" column="19" lean-forward="true" selection-start-line="44" selection-start-column="19" selection-end-line="44" selection-end-column="19" />
+        <state relative-caret-position="312">
+          <caret line="51" column="0" lean-forward="false" selection-start-line="51" selection-start-column="0" selection-end-line="55" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/js/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="25" lean-forward="false" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/js/fontawesome.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="49" lean-forward="false" selection-start-line="7" selection-start-column="49" selection-end-line="7" selection-end-column="49" />
+          <folding>
+            <element signature="e#0#51#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/sass/app.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="370">
+          <caret line="77" column="5" lean-forward="true" selection-start-line="77" selection-start-column="5" selection-end-line="77" selection-end-column="5" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/resources/views/questions/show.blade.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="30" lean-forward="true" selection-start-line="15" selection-start-column="30" selection-end-line="15" selection-end-column="30" />
+        <state relative-caret-position="115">
+          <caret line="72" column="104" lean-forward="false" selection-start-line="72" selection-start-column="104" selection-end-line="72" selection-end-column="104" />
           <folding>
-            <marker date="1567790526989" expanded="true" signature="9:22" ph="..." />
-            <marker date="1567790526989" expanded="true" signature="34:43" ph="..." />
-            <marker date="1567790526989" expanded="true" signature="337:353" ph="..." />
-            <marker date="1567790526989" expanded="true" signature="454:478" ph="..." />
-            <marker date="1567790526989" expanded="true" signature="777:778" ph="..." />
-            <marker date="1567790526989" expanded="true" signature="778:801" ph="..." />
-            <marker date="1567790526989" expanded="true" signature="917:940" ph="..." />
-            <marker date="1567790526989" expanded="true" signature="1046:1066" ph="..." />
-            <marker date="1567790526989" expanded="true" signature="1132:1155" ph="..." />
-            <marker date="1567790526989" expanded="true" signature="1313:1333" ph="..." />
-            <marker date="1567790526989" expanded="true" signature="1339:1360" ph="..." />
-            <marker date="1567790526989" expanded="true" signature="1786:1865" ph="..." />
-            <marker date="1567790526989" expanded="true" signature="1966:1995" ph="..." />
-            <marker date="1567790526989" expanded="true" signature="2141:2161" ph="..." />
-            <marker date="1567790526989" expanded="true" signature="2303:2324" ph="..." />
-            <marker date="1567790526989" expanded="true" signature="2326:3206" ph="..." />
-            <marker date="1567790526989" expanded="true" signature="2454:2472" ph="..." />
-            <marker date="1567790526989" expanded="true" signature="2550:2571" ph="..." />
-            <marker date="1567790526989" expanded="true" signature="2765:2783" ph="..." />
-            <marker date="1567790526989" expanded="true" signature="2789:2808" ph="..." />
+            <marker date="1567792616484" expanded="true" signature="9:22" ph="..." />
+            <marker date="1567792616484" expanded="true" signature="34:43" ph="..." />
+            <marker date="1567792616484" expanded="true" signature="392:408" ph="..." />
+            <marker date="1567792616484" expanded="true" signature="517:541" ph="..." />
+            <marker date="1567792616484" expanded="true" signature="1851:1873" ph="..." />
+            <marker date="1567792616484" expanded="true" signature="2007:2030" ph="..." />
+            <marker date="1567792616484" expanded="true" signature="2152:2172" ph="..." />
+            <marker date="1567792616484" expanded="true" signature="2246:2269" ph="..." />
+            <marker date="1567792616484" expanded="true" signature="2451:2471" ph="..." />
+            <marker date="1567792616484" expanded="true" signature="2477:2498" ph="..." />
+            <marker date="1567792616484" expanded="true" signature="3014:3093" ph="..." />
+            <marker date="1567792616484" expanded="true" signature="3194:3223" ph="..." />
+            <marker date="1567792616484" expanded="true" signature="4205:4225" ph="..." />
+            <marker date="1567792616484" expanded="true" signature="4367:4388" ph="..." />
+            <marker date="1567792616484" expanded="true" signature="4518:4536" ph="..." />
+            <marker date="1567792616484" expanded="true" signature="4614:4635" ph="..." />
+            <marker date="1567792616484" expanded="true" signature="4829:4847" ph="..." />
+            <marker date="1567792616484" expanded="true" signature="4853:4872" ph="..." />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/Providers/RouteServiceProvider.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="373">
-          <caret line="34" column="45" lean-forward="true" selection-start-line="34" selection-start-column="45" selection-end-line="34" selection-end-column="45" />
-          <folding />
         </state>
       </provider>
     </entry>
