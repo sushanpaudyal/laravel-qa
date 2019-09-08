@@ -66,5 +66,11 @@ class Question extends Model
     }
 
 
+    // Polmorphic Many To Many
+    public function votes(){
+        return $this->morphToMany(User::class, 'votable');
+    }
+
+
 
 }

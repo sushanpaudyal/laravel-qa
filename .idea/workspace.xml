@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="69cd2ed3-29d5-4966-ab11-70d8c65e2a4c" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/app/Answer.php" afterPath="$PROJECT_DIR$/app/Answer.php" />
       <change beforePath="$PROJECT_DIR$/app/Question.php" afterPath="$PROJECT_DIR$/app/Question.php" />
-      <change beforePath="$PROJECT_DIR$/resources/views/questions/show.blade.php" afterPath="$PROJECT_DIR$/resources/views/questions/show.blade.php" />
-      <change beforePath="$PROJECT_DIR$/routes/web.php" afterPath="$PROJECT_DIR$/routes/web.php" />
+      <change beforePath="$PROJECT_DIR$/app/User.php" afterPath="$PROJECT_DIR$/app/User.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -19,75 +18,41 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="web.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/routes/web.php">
+      <file leaf-file-name="2019_09_08_193300_create_votables_table.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/database/migrations/2019_09_08_193300_create_votables_table.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="28" column="0" lean-forward="true" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+            <state relative-caret-position="459">
+              <caret line="29" column="7" lean-forward="true" selection-start-line="29" selection-start-column="7" selection-end-line="29" selection-end-column="7" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="FavoritesController.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/Http/Controllers/FavoritesController.php">
+      <file leaf-file-name="User.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/User.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="34" lean-forward="true" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
-              <folding>
-                <element signature="e#39#67#0#PHP" expanded="true" />
-              </folding>
+            <state relative-caret-position="284">
+              <caret line="43" column="38" lean-forward="true" selection-start-line="43" selection-start-column="38" selection-end-line="43" selection-end-column="38" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="show.blade.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/resources/views/questions/show.blade.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="337">
-              <caret line="41" column="39" lean-forward="false" selection-start-line="41" selection-start-column="39" selection-end-line="41" selection-end-column="39" />
-              <folding>
-                <element signature="e#2177#2198#0#HTML" expanded="true" />
-                <marker date="1567970492524" expanded="true" signature="9:22" ph="..." />
-                <marker date="1567970492524" expanded="true" signature="34:43" ph="..." />
-                <marker date="1567970492524" expanded="true" signature="392:408" ph="..." />
-                <marker date="1567970492524" expanded="true" signature="517:541" ph="..." />
-                <marker date="1567970492524" expanded="true" signature="1567:1637" ph="..." />
-                <marker date="1567970492524" expanded="true" signature="1754:1769" ph="..." />
-                <marker date="1567970492524" expanded="true" signature="1957:1985" ph="..." />
-                <marker date="1567970492524" expanded="true" signature="2094:2109" ph="..." />
-                <marker date="1567970492524" expanded="true" signature="2134:2149" ph="..." />
-                <marker date="1567970492524" expanded="true" signature="2283:2306" ph="..." />
-                <marker date="1567970492524" expanded="true" signature="2357:2365" ph="..." />
-                <marker date="1567970492524" expanded="true" signature="2573:2595" ph="..." />
-                <marker date="1567970492524" expanded="true" signature="2729:2752" ph="..." />
-                <marker date="1567970492524" expanded="true" signature="2874:2894" ph="..." />
-                <marker date="1567970492524" expanded="true" signature="2968:2991" ph="..." />
-                <marker date="1567970492524" expanded="true" signature="3173:3193" ph="..." />
-                <marker date="1567970492524" expanded="true" signature="3199:3220" ph="..." />
-                <marker date="1567970492524" expanded="true" signature="3525:3655" ph="..." />
-                <marker date="1567970492524" expanded="true" signature="3544:3654" ph="..." />
-                <marker date="1567970492524" expanded="true" signature="3675:3692" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Question.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Question.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/Question.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="312">
-              <caret line="62" column="48" lean-forward="true" selection-start-line="62" selection-start-column="48" selection-end-line="62" selection-end-column="48" />
+            <state relative-caret-position="489">
+              <caret line="65" column="5" lean-forward="true" selection-start-line="65" selection-start-column="5" selection-end-line="65" selection-end-column="5" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="app.scss" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/resources/sass/app.scss">
+      <file leaf-file-name="Answer.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/Answer.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="263">
-              <caret line="74" column="17" lean-forward="false" selection-start-line="74" selection-start-column="8" selection-end-line="74" selection-end-column="17" />
+            <state relative-caret-position="641">
+              <caret line="54" column="5" lean-forward="false" selection-start-line="54" selection-start-column="5" selection-end-line="54" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -144,16 +109,17 @@
         <option value="$PROJECT_DIR$/app/Http/Controllers/AcceptAnswerController.php" />
         <option value="$PROJECT_DIR$/app/Http/Controllers/AnswersController.php" />
         <option value="$PROJECT_DIR$/resources/views/answers/_index.blade.php" />
-        <option value="$PROJECT_DIR$/app/Answer.php" />
         <option value="$PROJECT_DIR$/database/migrations/2019_09_08_183656_create_favorites_table.php" />
         <option value="$PROJECT_DIR$/database/seeds/FavoritesTableSeeder.php" />
         <option value="$PROJECT_DIR$/database/seeds/DatabaseSeeder.php" />
-        <option value="$PROJECT_DIR$/app/User.php" />
         <option value="$PROJECT_DIR$/database/seeds/UsersQuestionsAnsswersTableSeeder.php" />
         <option value="$PROJECT_DIR$/resources/views/questions/show.blade.php" />
         <option value="$PROJECT_DIR$/routes/web.php" />
         <option value="$PROJECT_DIR$/app/Http/Controllers/FavoritesController.php" />
+        <option value="$PROJECT_DIR$/database/migrations/2019_09_08_193300_create_votables_table.php" />
+        <option value="$PROJECT_DIR$/app/User.php" />
         <option value="$PROJECT_DIR$/app/Question.php" />
+        <option value="$PROJECT_DIR$/app/Answer.php" />
       </list>
     </option>
   </component>
@@ -343,7 +309,7 @@
     <property name="settings.editor.selected.configurable" value="File.Encoding" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="SearchEverywhereHistoryKey" value="Quest&#9;FILE&#9;file:///Applications/MAMP/htdocs/Study/laravel-qa/app/Question.php&#10;Quess&#9;FILE&#9;file:///Applications/MAMP/htdocs/Study/laravel-qa/database/seeds/UsersQuestionsAnsswersTableSeeder.php&#10;Ques&#9;FILE&#9;file:///Applications/MAMP/htdocs/Study/laravel-qa/app/Question.php&#10;_ind&#9;FILE&#9;file:///Applications/MAMP/htdocs/Study/laravel-qa/resources/views/answers/_index.blade.php&#10;show.&#9;FILE&#9;file:///Applications/MAMP/htdocs/Study/laravel-qa/resources/views/questions/show.blade.php&#10;show&#9;null&#9;null&#10;app.scs&#9;FILE&#9;file:///Applications/MAMP/htdocs/Study/laravel-qa/resources/sass/app.scss&#10;_in&#9;FILE&#9;file:///Applications/MAMP/htdocs/Study/laravel-qa/resources/views/answers/_index.blade.php&#10;Fav&#9;null&#9;null&#10;web&#9;FILE&#9;file:///Applications/MAMP/htdocs/Study/laravel-qa/routes/web.php&#10;User&#9;FILE&#9;file:///Applications/MAMP/htdocs/Study/laravel-qa/app/User.php&#10;Us&#9;null&#9;null&#10;Data&#9;FILE&#9;file:///Applications/MAMP/htdocs/Study/laravel-qa/database/seeds/DatabaseSeeder.php&#10;User.p&#9;FILE&#9;file:///Applications/MAMP/htdocs/Study/laravel-qa/app/User.php&#10;favor&#9;FILE&#9;file:///Applications/MAMP/htdocs/Study/laravel-qa/database/migrations/2019_09_08_183656_create_favorites_table.php&#10;Ans&#9;FILE&#9;file:///Applications/MAMP/htdocs/Study/laravel-qa/app/Answer.php&#10;Answer&#9;FILE&#9;file:///Applications/MAMP/htdocs/Study/laravel-qa/app/Http/Controllers/AnswersController.php&#10;Acce&#9;null&#9;null&#10;_index&#9;FILE&#9;file:///Applications/MAMP/htdocs/Study/laravel-qa/resources/views/answers/_index.blade.php&#10;Answ&#9;FILE&#9;file:///Applications/MAMP/htdocs/Study/laravel-qa/app/Http/Controllers/AnswersController.php&#10;edit&#9;FILE&#9;file:///Applications/MAMP/htdocs/Study/laravel-qa/resources/views/questions/edit.blade.php&#10;_cr&#9;FILE&#9;file:///Applications/MAMP/htdocs/Study/laravel-qa/resources/views/answers/_create.blade.php&#10;AuthSe&#9;FILE&#9;file:///Applications/MAMP/htdocs/Study/laravel-qa/app/Providers/AuthServiceProvider.php&#10;ind&#9;FILE&#9;file:///Applications/MAMP/htdocs/Study/laravel-qa/resources/views/questions/index.blade.php&#10;Answe&#9;FILE&#9;file:///Applications/MAMP/htdocs/Study/laravel-qa/app/Answer.php&#10;_inde&#9;FILE&#9;file:///Applications/MAMP/htdocs/Study/laravel-qa/resources/views/answers/_index.blade.php&#10;app.scss&#9;FILE&#9;file:///Applications/MAMP/htdocs/Study/laravel-qa/resources/sass/app.scss&#10;app.js&#9;FILE&#9;file:///Applications/MAMP/htdocs/Study/laravel-qa/resources/js/app.js&#10;Route&#9;FILE&#9;file:///Applications/MAMP/htdocs/Study/laravel-qa/app/Providers/RouteServiceProvider.php&#10;QUest&#9;FILE&#9;file:///Applications/MAMP/htdocs/Study/laravel-qa/app/Question.php&#10;Answer.p&#9;FILE&#9;file:///Applications/MAMP/htdocs/Study/laravel-qa/app/Answer.php&#10;QuestionPol&#9;FILE&#9;file:///Applications/MAMP/htdocs/Study/laravel-qa/app/Policies/QuestionPolicy.php&#10;index&#9;FILE&#9;file:///Applications/MAMP/htdocs/Study/laravel-qa/resources/views/questions/index.blade.php&#10;QuestionFac&#9;FILE&#9;file:///Applications/MAMP/htdocs/Study/laravel-qa/database/factories/QuestionFactory.php&#10;questio&#9;FILE&#9;file:///Applications/MAMP/htdocs/Study/laravel-qa/database/migrations/2019_09_05_131944_create_questions_table.php&#10;User.&#9;FILE&#9;file:///Applications/MAMP/htdocs/Study/laravel-qa/app/User.php&#10;ans&#9;FILE&#9;file:///Applications/MAMP/htdocs/Study/laravel-qa/database/migrations/2019_09_06_161711_create_answers_table.php&#10;Auth&#9;FILE&#9;file:///Applications/MAMP/htdocs/Study/laravel-qa/app/Providers/AuthServiceProvider.php&#10;AuthSer&#9;null&#9;null&#10;Que&#9;FILE&#9;file:///Applications/MAMP/htdocs/Study/laravel-qa/app/Question.php&#10;RouteSer&#9;null&#9;null&#10;QUe&#9;FILE&#9;file:///Applications/MAMP/htdocs/Study/laravel-qa/app/Http/Controllers/QuestionsController.php&#10;app.&#9;FILE&#9;file:///Applications/MAMP/htdocs/Study/laravel-qa/resources/sass/app.scss&#10;creat&#9;FILE&#9;file:///Applications/MAMP/htdocs/Study/laravel-qa/resources/views/questions/create.blade.php&#10;Ask&#9;FILE&#9;file:///Applications/MAMP/htdocs/Study/laravel-qa/app/Http/Requests/AskQuestionRequest.php&#10;_varia&#9;FILE&#9;file:///Applications/MAMP/htdocs/Study/laravel-qa/resources/sass/_variables.scss&#10;web.&#9;FILE&#9;file:///Applications/MAMP/htdocs/Study/laravel-qa/routes/web.php&#10;Qu&#9;FILE&#9;file:///Applications/MAMP/htdocs/Study/laravel-qa/app/Question.php&#10;Datab&#9;null&#9;null&#10;UserFac&#9;FILE&#9;file:///Applications/MAMP/htdocs/Study/laravel-qa/database/factories/UserFactory.php" />
+    <property name="SearchEverywhereHistoryKey" value="Answ&#9;FILE&#9;file:///Applications/MAMP/htdocs/Study/laravel-qa/app/Answer.php&#10;Ques&#9;FILE&#9;file:///Applications/MAMP/htdocs/Study/laravel-qa/app/Question.php&#10;User&#9;FILE&#9;file:///Applications/MAMP/htdocs/Study/laravel-qa/app/User.php&#10;vota&#9;FILE&#9;file:///Applications/MAMP/htdocs/Study/laravel-qa/database/migrations/2019_09_08_193300_create_votables_table.php&#10;Quest&#9;FILE&#9;file:///Applications/MAMP/htdocs/Study/laravel-qa/app/Question.php&#10;Quess&#9;FILE&#9;file:///Applications/MAMP/htdocs/Study/laravel-qa/database/seeds/UsersQuestionsAnsswersTableSeeder.php&#10;_ind&#9;FILE&#9;file:///Applications/MAMP/htdocs/Study/laravel-qa/resources/views/answers/_index.blade.php&#10;show.&#9;FILE&#9;file:///Applications/MAMP/htdocs/Study/laravel-qa/resources/views/questions/show.blade.php&#10;show&#9;null&#9;null&#10;app.scs&#9;FILE&#9;file:///Applications/MAMP/htdocs/Study/laravel-qa/resources/sass/app.scss&#10;_in&#9;FILE&#9;file:///Applications/MAMP/htdocs/Study/laravel-qa/resources/views/answers/_index.blade.php&#10;Fav&#9;null&#9;null&#10;web&#9;FILE&#9;file:///Applications/MAMP/htdocs/Study/laravel-qa/routes/web.php&#10;Us&#9;null&#9;null&#10;Data&#9;FILE&#9;file:///Applications/MAMP/htdocs/Study/laravel-qa/database/seeds/DatabaseSeeder.php&#10;User.p&#9;FILE&#9;file:///Applications/MAMP/htdocs/Study/laravel-qa/app/User.php&#10;favor&#9;FILE&#9;file:///Applications/MAMP/htdocs/Study/laravel-qa/database/migrations/2019_09_08_183656_create_favorites_table.php&#10;Ans&#9;FILE&#9;file:///Applications/MAMP/htdocs/Study/laravel-qa/app/Answer.php&#10;Answer&#9;FILE&#9;file:///Applications/MAMP/htdocs/Study/laravel-qa/app/Http/Controllers/AnswersController.php&#10;Acce&#9;null&#9;null&#10;_index&#9;FILE&#9;file:///Applications/MAMP/htdocs/Study/laravel-qa/resources/views/answers/_index.blade.php&#10;edit&#9;FILE&#9;file:///Applications/MAMP/htdocs/Study/laravel-qa/resources/views/questions/edit.blade.php&#10;_cr&#9;FILE&#9;file:///Applications/MAMP/htdocs/Study/laravel-qa/resources/views/answers/_create.blade.php&#10;AuthSe&#9;FILE&#9;file:///Applications/MAMP/htdocs/Study/laravel-qa/app/Providers/AuthServiceProvider.php&#10;ind&#9;FILE&#9;file:///Applications/MAMP/htdocs/Study/laravel-qa/resources/views/questions/index.blade.php&#10;Answe&#9;FILE&#9;file:///Applications/MAMP/htdocs/Study/laravel-qa/app/Answer.php&#10;_inde&#9;FILE&#9;file:///Applications/MAMP/htdocs/Study/laravel-qa/resources/views/answers/_index.blade.php&#10;app.scss&#9;FILE&#9;file:///Applications/MAMP/htdocs/Study/laravel-qa/resources/sass/app.scss&#10;app.js&#9;FILE&#9;file:///Applications/MAMP/htdocs/Study/laravel-qa/resources/js/app.js&#10;Route&#9;FILE&#9;file:///Applications/MAMP/htdocs/Study/laravel-qa/app/Providers/RouteServiceProvider.php&#10;QUest&#9;FILE&#9;file:///Applications/MAMP/htdocs/Study/laravel-qa/app/Question.php&#10;Answer.p&#9;FILE&#9;file:///Applications/MAMP/htdocs/Study/laravel-qa/app/Answer.php&#10;QuestionPol&#9;FILE&#9;file:///Applications/MAMP/htdocs/Study/laravel-qa/app/Policies/QuestionPolicy.php&#10;index&#9;FILE&#9;file:///Applications/MAMP/htdocs/Study/laravel-qa/resources/views/questions/index.blade.php&#10;QuestionFac&#9;FILE&#9;file:///Applications/MAMP/htdocs/Study/laravel-qa/database/factories/QuestionFactory.php&#10;questio&#9;FILE&#9;file:///Applications/MAMP/htdocs/Study/laravel-qa/database/migrations/2019_09_05_131944_create_questions_table.php&#10;User.&#9;FILE&#9;file:///Applications/MAMP/htdocs/Study/laravel-qa/app/User.php&#10;ans&#9;FILE&#9;file:///Applications/MAMP/htdocs/Study/laravel-qa/database/migrations/2019_09_06_161711_create_answers_table.php&#10;Auth&#9;FILE&#9;file:///Applications/MAMP/htdocs/Study/laravel-qa/app/Providers/AuthServiceProvider.php&#10;AuthSer&#9;null&#9;null&#10;Que&#9;FILE&#9;file:///Applications/MAMP/htdocs/Study/laravel-qa/app/Question.php&#10;RouteSer&#9;null&#9;null&#10;QUe&#9;FILE&#9;file:///Applications/MAMP/htdocs/Study/laravel-qa/app/Http/Controllers/QuestionsController.php&#10;app.&#9;FILE&#9;file:///Applications/MAMP/htdocs/Study/laravel-qa/resources/sass/app.scss&#10;creat&#9;FILE&#9;file:///Applications/MAMP/htdocs/Study/laravel-qa/resources/views/questions/create.blade.php&#10;Ask&#9;FILE&#9;file:///Applications/MAMP/htdocs/Study/laravel-qa/app/Http/Requests/AskQuestionRequest.php&#10;_varia&#9;FILE&#9;file:///Applications/MAMP/htdocs/Study/laravel-qa/resources/sass/_variables.scss&#10;web.&#9;FILE&#9;file:///Applications/MAMP/htdocs/Study/laravel-qa/routes/web.php&#10;Qu&#9;FILE&#9;file:///Applications/MAMP/htdocs/Study/laravel-qa/app/Question.php&#10;Datab&#9;null&#9;null" />
     <property name="node.js.path.for.package.jscs" value="project" />
     <property name="node.js.detected.package.jscs" value="true" />
     <property name="node.js.selected.package.jscs" value="" />
@@ -386,18 +352,17 @@
       <workItem from="1567706524809" duration="4434000" />
       <workItem from="1567782174406" duration="8607000" />
       <workItem from="1567875789704" duration="4775000" />
-      <workItem from="1567956251705" duration="4344000" />
+      <workItem from="1567956251705" duration="4988000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26427000" />
+    <option name="totallyTimeSpent" value="27071000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25679544" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25679544" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -406,7 +371,7 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29504234" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29504234" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -425,17 +390,18 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/app/Http/Controllers/FavoritesController.php</url>
+          <line>7</line>
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="1" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/database/seeds/DatabaseSeeder.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="1" lean-forward="false" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/database/factories/UserFactory.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
@@ -698,14 +664,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/Answer.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="470">
-          <caret line="49" column="5" lean-forward="true" selection-start-line="39" selection-start-column="3" selection-end-line="49" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/database/seeds/FavoritesTableSeeder.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="391">
@@ -720,14 +678,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
           <caret line="18" column="5" lean-forward="true" selection-start-line="11" selection-start-column="4" selection-end-line="18" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/User.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="346">
-          <caret line="57" column="0" lean-forward="false" selection-start-line="57" selection-start-column="0" selection-end-line="59" selection-end-column="5" />
           <folding />
         </state>
       </provider>
@@ -788,12 +738,38 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/database/migrations/2019_09_08_183656_create_favorites_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/web.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="29" column="0" lean-forward="false" selection-start-line="29" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/FavoritesController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="25" selection-end-column="5" />
+          <folding>
+            <element signature="e#39#67#0#PHP" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/resources/views/questions/show.blade.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="337">
-          <caret line="41" column="39" lean-forward="false" selection-start-line="41" selection-start-column="39" selection-end-line="41" selection-end-column="39" />
+        <state relative-caret-position="428">
+          <caret line="46" column="104" lean-forward="true" selection-start-line="46" selection-start-column="104" selection-end-line="46" selection-end-column="104" />
           <folding>
-            <element signature="e#2177#2198#0#HTML" expanded="true" />
+            <element signature="e#2177#2198#0#HTML" expanded="false" />
             <marker date="1567970492524" expanded="true" signature="9:22" ph="..." />
             <marker date="1567970492524" expanded="true" signature="34:43" ph="..." />
             <marker date="1567970492524" expanded="true" signature="392:408" ph="..." />
@@ -818,36 +794,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/routes/web.php">
+    <entry file="file://$PROJECT_DIR$/database/migrations/2019_09_08_193300_create_votables_table.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="28" column="0" lean-forward="true" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+        <state relative-caret-position="459">
+          <caret line="29" column="7" lean-forward="true" selection-start-line="29" selection-start-column="7" selection-end-line="29" selection-end-column="7" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/database/migrations/2019_09_08_183656_create_favorites_table.php">
+    <entry file="file://$PROJECT_DIR$/app/User.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+        <state relative-caret-position="284">
+          <caret line="43" column="38" lean-forward="true" selection-start-line="43" selection-start-column="38" selection-end-line="43" selection-end-column="38" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/FavoritesController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="34" lean-forward="true" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
-          <folding>
-            <element signature="e#39#67#0#PHP" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/Question.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="62" column="48" lean-forward="true" selection-start-line="62" selection-start-column="48" selection-end-line="62" selection-end-column="48" />
+        <state relative-caret-position="489">
+          <caret line="65" column="5" lean-forward="true" selection-start-line="65" selection-start-column="5" selection-end-line="65" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Answer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="641">
+          <caret line="54" column="5" lean-forward="false" selection-start-line="54" selection-start-column="5" selection-end-line="54" selection-end-column="5" />
           <folding />
         </state>
       </provider>

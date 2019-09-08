@@ -48,4 +48,9 @@ class Answer extends Model
     public function isBest(){
         return $this->id === $this->question->best_answer_id;
     }
+
+    // Polmorphic Many To Many
+    public function votes(){
+        return $this->morphToMany(User::class, 'votable');
+    }
 }
