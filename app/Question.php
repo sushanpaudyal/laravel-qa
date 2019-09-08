@@ -48,6 +48,10 @@ class Question extends Model
         $this->save();
     }
 
+    public function favorites(){
+        return $this->belongsToMany(User::class, 'favorites');
+    }
+
 
 
 }
