@@ -53,4 +53,16 @@ class Answer extends Model
 
     // Polmorphic Many To Many
 
+    public function getExcerptAttribute(){
+        return $this->excerpt(250);
+    }
+
+    public function excerpt($length){
+        return str_limit(strip_tags($this->bodyHtml()), $length);
+    }
+
+    private function bodyHtml(){
+        return \Parsedown::instance()->text($this->body);
+    }
+
 }
