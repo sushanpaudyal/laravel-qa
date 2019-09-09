@@ -34,10 +34,6 @@
 
 
 
-
-
-
-
                         </div>
                         <div class="media-body">
                             {!! $answer->body_html !!}
